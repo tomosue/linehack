@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tomosue/linehack/issues"
   },
-  "homepage": "https://github.com/tomosue/linehack#readme"
+  "homepage": "https://github.com/tomosue/linehack#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.7.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0"
+  }
 }
